@@ -56,9 +56,6 @@ I'm a passionate Frontend Developer dedicated to crafting responsive, modern, an
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-### Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
 ---
 
 ## 💼 Featured Projects
@@ -87,7 +84,7 @@ I'm a passionate Frontend Developer dedicated to crafting responsive, modern, an
   <img src="https://res.cloudinary.com/dvd7wbty8/image/upload/w_500,q_auto,f_auto/v1762633960/yourchildeducation_iuvg3m.png" alt="YourChildEducation" width="100%"/>
 </a>
 
-**Interactive learning platform** with course management and student dashboard
+**Educational job platform** connecting schools with qualified teachers - schools post job openings and teachers apply
 
 **Tech Stack:** React • Tailwind CSS • API Integration
 
@@ -116,12 +113,12 @@ I'm a passionate Frontend Developer dedicated to crafting responsive, modern, an
 
 ### 💼 Personal Portfolio
 <a href="https://abdulsamad-yy.vercel.app/">
-  <img src="https://res.cloudinary.com/dvd7wbty8/image/upload/w_500,q_auto,f_auto/v1762633959/forever_iid7vo.png" alt="Portfolio Website" width="100%"/>
+  <img src="[https://res.cloudinary.com/dvd7wbty8/image/upload/v1762937848/portfolio-img_rrwb6f.png] alt="Portfolio Website" width="100%"/>
 </a>
 
 **Personal portfolio** with contact form, project showcase, and modern design
 
-**Tech Stack:** React • EmailJS • Tailwind CSS
+**Tech Stack:** React • Tailwind Css • Framer-Motion • Formspree • Tailwind CSS
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://abdulsamad-yy.vercel.app/)
 [![Code](https://img.shields.io/badge/View-Code-blue?style=for-the-badge&logo=github)](https://github.com/Abdulsamad25)
@@ -141,7 +138,7 @@ const abdulsamad = {
     specialties: ["React.js", "Tailwind CSS", "Responsive Design"],
     experience: {
         eCommerce: "Building seamless shopping experiences",
-        education: "Creating accessible learning platforms",
+        jobPlatform: "Connecting schools with qualified teachers",
         portfolios: "Showcasing creative work beautifully"
     },
     codePhilosophy: [
@@ -163,7 +160,7 @@ const abdulsamad = {
 Over time, I've built and contributed to several web projects:
 
 - 🛍️ **E-commerce Platforms** - Building seamless shopping experiences with cart functionality and payment integration
-- 📚 **Educational Websites** - Creating accessible learning platforms with course management systems
+- 🎓 **Educational Job Platform** - Connecting schools with qualified teachers through job posting and application system
 - 🏛️ **Architectural Portfolios** - Showcasing creative work beautifully with smooth animations
 - 💼 **Business Websites** - Modern, responsive websites that drive results
 
