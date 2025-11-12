@@ -147,7 +147,7 @@ const abdulsamad = {
         "📱 Mobile-responsive by default",
         "♿ Accessibility for all users"
     ],
-    currentlyLearning: ["Advanced TypeScript", "Next.js", "Web Animations"],
+    currentlyLearning: ["TypeScript", "Next.js", "Web Animations"],
     openToWork: true,
     funFact: "I turn coffee into code! ☕️"
 };
@@ -220,7 +220,7 @@ I enjoy translating design concepts into real-world web experiences while ensuri
 I'm constantly improving my craft and exploring new technologies to stay current in the fast-evolving frontend landscape. 
 
 **Currently Learning:**
-- 🔥 Advanced TypeScript patterns
+- 🔥 TypeScript patterns
 - ⚡ Next.js 14 with App Router
 - 🎨 Advanced CSS animations
 - 🧪 Testing with Jest & React Testing Library
