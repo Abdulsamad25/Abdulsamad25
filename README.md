@@ -105,7 +105,7 @@ I enjoy translating design concepts into real-world web experiences while ensuri
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div display="flex" gap="20px">
 
 ![Abdulsamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulsamad25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
 
