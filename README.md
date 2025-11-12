@@ -61,7 +61,7 @@ I'm a passionate Frontend Developer dedicated to crafting responsive, modern, an
 | 🏗️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
 |------------|---------------|---------------|----------|
 | **E-Commerce Platform** | Modern online shopping experience with cart, checkout, and payment integration | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | [Demo](https://foreverr-frontend.vercel.app/) \| [Code](#) |
-| **Educational Website** | Interactive learning platform with course management and student dashboard | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | [Demo](https://yourchildeducation.com/) \| [Code](#) |
+| **yourchildeducation** | Interactive learning platform with course management and student dashboard | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | [Demo](https://yourchildeducation.com/) \| [Code](#) |
 | **Architectural Portfolio** | Stunning portfolio showcasing architectural designs with smooth animations | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat&logo=framer&logoColor=white) | [Demo](https://cyno-sure.netlify.app/) \| [Code](#) |
 | **Portfolio Website** | Personal portfolio with contact form, project showcase, and blog | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![EmailJS](https://img.shields.io/badge/-EmailJS-red?style=flat) | [Demo](https://abdulsamad-yy.vercel.app/) \| [Code](#) |
 
@@ -71,10 +71,10 @@ I'm a passionate Frontend Developer dedicated to crafting responsive, modern, an
 ## 🎨 Project Demos
 
 ### E-Commerce Platform
-![E-Commerce Demo]([(https://foreverr-frontend.vercel.app/)](https://res.cloudinary.com/dvd7wbty8/image/upload/v1762633959/forever_iid7vo.png))
+![E-Commerce Demo]([(https://foreverr-frontend.vercel.app/)][(https://res.cloudinary.com/dvd7wbty8/image/upload/v1762633959/forever_iid7vo.png)])
 
 ### yourchildeducation
-![yourchildeducation]([https://yourchildeducation.com/](https://res.cloudinary.com/dvd7wbty8/image/upload/v1762633960/yourchildeducation_iuvg3m.png))
+![yourchildeducation]([https://yourchildeducation.com/][(https://res.cloudinary.com/dvd7wbty8/image/upload/v1762633960/yourchildeducation_iuvg3m.png)])
 
 ### Architectural Portfolio
 ![Architecture Portfolio Demo]([(https://cyno-sure.netlify.app/)]([https://res.cloudinary.com/dvd7wbty8/image/upload/v1762633964/Cynosure_auvpwi.png]))
