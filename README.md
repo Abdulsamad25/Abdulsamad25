@@ -113,7 +113,7 @@ I'm a passionate Frontend Developer dedicated to crafting responsive, modern, an
 
 ### 💼 Personal Portfolio
 <a href="https://abdulsamad-yy.vercel.app/">
-  <img src="[https://res.cloudinary.com/dvd7wbty8/image/upload/v1762937848/portfolio-img_rrwb6f.png] alt="Portfolio Website" width="100%"/>
+  <img src="https://res.cloudinary.com/dvd7wbty8/image/upload/v1762937848/portfolio-img_rrwb6f.png" alt="Portfolio Website" width="100%"/>
 </a>
 
 **Personal portfolio** with contact form, project showcase, and modern design
