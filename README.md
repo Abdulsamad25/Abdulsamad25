@@ -1,8 +1,6 @@
 # Hi there, I'm Yahaya Abdulsamad 👋
 
-### Frontend Developer | React Specialist | UI/UX Enthusiast
-
-![Visitor Count](https://profile-counter.glitch.me/Abdulsamad25/count.svg)
+### Frontend Developer
 
 I'm a passionate Frontend Developer dedicated to crafting responsive, modern, and user-centered web applications. I specialize in using **React** and **Tailwind CSS** to design clean, accessible interfaces that deliver both functionality and aesthetics.
 
@@ -67,20 +65,19 @@ I'm a passionate Frontend Developer dedicated to crafting responsive, modern, an
 | **Architectural Portfolio** | Stunning portfolio showcasing architectural designs with smooth animations | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat&logo=framer&logoColor=white) | [Demo](https://cyno-sure.netlify.app/) \| [Code](#) |
 | **Portfolio Website** | Personal portfolio with contact form, project showcase, and blog | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![EmailJS](https://img.shields.io/badge/-EmailJS-red?style=flat) | [Demo](https://abdulsamad-yy.vercel.app/) \| [Code](#) |
 
-> 💡 **Note:** Replace the `#` links above with your actual project URLs (live demo and GitHub repository links)
 
 ---
 
 ## 🎨 Project Demos
 
 ### E-Commerce Platform
-![E-Commerce Demo]([https://via.placeholder.com/800x400/1a1a2e/eee?text=Add+Your+Project+GIF+or+Screenshot+Here](https://res.cloudinary.com/dvd7wbty8/image/upload/v1762633959/forever_iid7vo.png))
+![E-Commerce Demo]([(https://foreverr-frontend.vercel.app/)](https://res.cloudinary.com/dvd7wbty8/image/upload/v1762633959/forever_iid7vo.png))
 
-### Educational Website
-![Educational Platform Demo]([https://via.placeholder.com/800x400/16213e/eee?text=Add+Your+Project+GIF+or+Screenshot+Here](https://res.cloudinary.com/dvd7wbty8/image/upload/v1762633960/yourchildeducation_iuvg3m.png))
+### yourchildeducation
+![yourchildeducation]([https://yourchildeducation.com/](https://res.cloudinary.com/dvd7wbty8/image/upload/v1762633960/yourchildeducation_iuvg3m.png))
 
 ### Architectural Portfolio
-![Architecture Portfolio Demo]([https://via.placeholder.com/800x400/0f3460/eee?text=Add+Your+Project+GIF+or+Screenshot+Here](https://res.cloudinary.com/dvd7wbty8/image/upload/v1762633964/Cynosure_auvpwi.png))
+![Architecture Portfolio Demo]([(https://cyno-sure.netlify.app/)]([https://res.cloudinary.com/dvd7wbty8/image/upload/v1762633964/Cynosure_auvpwi.png]))
 
 
 ## 💼 What I Do
@@ -88,7 +85,7 @@ I'm a passionate Frontend Developer dedicated to crafting responsive, modern, an
 Over time, I've built and contributed to several web projects, including:
 
 - 🛍️ **E-commerce Platforms** - Building seamless shopping experiences
-- 📚 **Educational Websites** - Creating accessible learning platforms
+- 📚 **yourchildeducation** - Creating accessible learning platforms
 - 🏛️ **Architectural Portfolios** - Showcasing creative work beautifully
 
 Each project reflects my commitment to building **efficient**, **scalable**, and **visually appealing** solutions that align with user needs and business goals.
@@ -117,24 +114,6 @@ I enjoy translating design concepts into real-world web experiences while ensuri
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdulsamad25&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)
 
 </div>
-
----
-
-## 🎨 Want Different Themes?
-
-You can change the stats theme by replacing `tokyonight` with any of these:
-
-- `radical` - Pink and purple gradient
-- `dark` - Simple dark theme
-- `dracula` - Dracula color scheme
-- `gruvbox` - Retro groove colors
-- `onedark` - Atom One Dark theme
-- `cobalt` - Blue cobalt theme
-- `synthwave` - Retro synthwave
-- `highcontrast` - High contrast theme
-- `github_dark` - GitHub's dark theme
-
-Just replace `theme=tokyonight` with `theme=YOUR_CHOICE` in the URLs above!
 
 ---
 
