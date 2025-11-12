@@ -1,6 +1,8 @@
 # Hi there, I'm Yahaya Abdulsamad 👋
 
-### Frontend Developer
+### Frontend Developer | React Specialist | UI/UX Enthusiast
+
+![Visitor Count](https://profile-counter.glitch.me/Abdulsamad25/count.svg)
 
 I'm a passionate Frontend Developer dedicated to crafting responsive, modern, and user-centered web applications. I specialize in using **React** and **Tailwind CSS** to design clean, accessible interfaces that deliver both functionality and aesthetics.
 
@@ -11,6 +13,7 @@ I'm a passionate Frontend Developer dedicated to crafting responsive, modern, an
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulsamad-yahaya-b68228323/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdulsamad25)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samadolalekan15@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdulsamad-yy.vercel.app/)
 
 ---
 
@@ -22,6 +25,7 @@ I'm a passionate Frontend Developer dedicated to crafting responsive, modern, an
 - 🎯 Focused on writing structured, reusable, and maintainable code
 - ✨ Integrating modern features: animations, EmailJS contact systems, responsive layouts
 - 📫 Reach me at: **samadolalekan15@gmail.com**
+- 🌍 Based in **Lagos, Nigeria**
 
 ---
 
@@ -45,7 +49,7 @@ I'm a passionate Frontend Developer dedicated to crafting responsive, modern, an
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Version Control & CI/CD
+### Version Control & Collaboration
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
@@ -54,39 +58,116 @@ I'm a passionate Frontend Developer dedicated to crafting responsive, modern, an
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
+### Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 ---
 
 ## 💼 Featured Projects
 
-| 🏗️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
-|------------|---------------|---------------|----------|
-| **E-Commerce Platform** | Modern online shopping experience with cart, checkout, and payment integration | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | [Demo](https://foreverr-frontend.vercel.app/) \| [Code](#) |
-| **yourchildeducation** | Interactive learning platform with course management and student dashboard | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | [Demo](https://yourchildeducation.com/) \| [Code](#) |
-| **Architectural Portfolio** | Stunning portfolio showcasing architectural designs with smooth animations | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat&logo=framer&logoColor=white) | [Demo](https://cyno-sure.netlify.app/) \| [Code](#) |
-| **Portfolio Website** | Personal portfolio with contact form, project showcase, and blog | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![EmailJS](https://img.shields.io/badge/-EmailJS-red?style=flat) | [Demo](https://abdulsamad-yy.vercel.app/) \| [Code](#) |
+<table>
+<tr>
+<td width="50%">
 
+### 🛍️ Forever E-Commerce
+<a href="https://foreverr-frontend.vercel.app/">
+  <img src="https://res.cloudinary.com/dvd7wbty8/image/upload/w_500,q_auto,f_auto/v1762633959/forever_iid7vo.png" alt="Forever Store" width="100%"/>
+</a>
+
+**Modern online shopping experience** with cart, checkout, and payment integration
+
+**Tech Stack:** React • Tailwind CSS • Vite
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://foreverr-frontend.vercel.app/)
+[![Code](https://img.shields.io/badge/View-Code-blue?style=for-the-badge&logo=github)](https://github.com/Abdulsamad25)
+
+</td>
+<td width="50%">
+
+### 📚 YourChildEducation
+<a href="https://yourchildeducation.com/">
+  <img src="https://res.cloudinary.com/dvd7wbty8/image/upload/w_500,q_auto,f_auto/v1762633960/yourchildeducation_iuvg3m.png" alt="YourChildEducation" width="100%"/>
+</a>
+
+**Interactive learning platform** with course management and student dashboard
+
+**Tech Stack:** React • Tailwind CSS • API Integration
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://yourchildeducation.com/)
+[![Code](https://img.shields.io/badge/View-Code-blue?style=for-the-badge&logo=github)](https://github.com/Abdulsamad25)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏛️ Cynosure Architecture
+<a href="https://cyno-sure.netlify.app/">
+  <img src="https://res.cloudinary.com/dvd7wbty8/image/upload/w_500,q_auto,f_auto/v1762633964/Cynosure_auvpwi.png" alt="Cynosure Architecture" width="100%"/>
+</a>
+
+**Stunning architectural portfolio** with smooth animations and responsive gallery
+
+**Tech Stack:** React • Framer Motion • Tailwind CSS
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://cyno-sure.netlify.app/)
+[![Code](https://img.shields.io/badge/View-Code-blue?style=for-the-badge&logo=github)](https://github.com/Abdulsamad25)
+
+</td>
+<td width="50%">
+
+### 💼 Personal Portfolio
+<a href="https://abdulsamad-yy.vercel.app/">
+  <img src="https://res.cloudinary.com/dvd7wbty8/image/upload/w_500,q_auto,f_auto/v1762633959/forever_iid7vo.png" alt="Portfolio Website" width="100%"/>
+</a>
+
+**Personal portfolio** with contact form, project showcase, and modern design
+
+**Tech Stack:** React • EmailJS • Tailwind CSS
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://abdulsamad-yy.vercel.app/)
+[![Code](https://img.shields.io/badge/View-Code-blue?style=for-the-badge&logo=github)](https://github.com/Abdulsamad25)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎨 Project Demos
+## 🎯 What I Bring to the Table
 
-### E-Commerce Platform
-![E-Commerce Demo]([(https://foreverr-frontend.vercel.app/)][(https://res.cloudinary.com/dvd7wbty8/image/upload/v1762633959/forever_iid7vo.png)])
+```javascript
+const abdulsamad = {
+    location: "Lagos, Nigeria 🇳🇬",
+    currentRole: "Frontend Developer",
+    specialties: ["React.js", "Tailwind CSS", "Responsive Design"],
+    experience: {
+        eCommerce: "Building seamless shopping experiences",
+        education: "Creating accessible learning platforms",
+        portfolios: "Showcasing creative work beautifully"
+    },
+    codePhilosophy: [
+        "⚡ Performance-first development",
+        "🔧 Clean and maintainable code",
+        "📱 Mobile-responsive by default",
+        "♿ Accessibility for all users"
+    ],
+    currentlyLearning: ["Advanced TypeScript", "Next.js", "Web Animations"],
+    openToWork: true,
+    funFact: "I turn coffee into code! ☕️"
+};
+```
 
-### yourchildeducation
-![yourchildeducation]([https://yourchildeducation.com/][(https://res.cloudinary.com/dvd7wbty8/image/upload/v1762633960/yourchildeducation_iuvg3m.png)])
-
-### Architectural Portfolio
-![Architecture Portfolio Demo]([(https://cyno-sure.netlify.app/)]([https://res.cloudinary.com/dvd7wbty8/image/upload/v1762633964/Cynosure_auvpwi.png]))
-
+---
 
 ## 💼 What I Do
 
-Over time, I've built and contributed to several web projects, including:
+Over time, I've built and contributed to several web projects:
 
-- 🛍️ **E-commerce Platforms** - Building seamless shopping experiences
-- 📚 **yourchildeducation** - Creating accessible learning platforms
-- 🏛️ **Architectural Portfolios** - Showcasing creative work beautifully
+- 🛍️ **E-commerce Platforms** - Building seamless shopping experiences with cart functionality and payment integration
+- 📚 **Educational Websites** - Creating accessible learning platforms with course management systems
+- 🏛️ **Architectural Portfolios** - Showcasing creative work beautifully with smooth animations
+- 💼 **Business Websites** - Modern, responsive websites that drive results
 
 Each project reflects my commitment to building **efficient**, **scalable**, and **visually appealing** solutions that align with user needs and business goals.
 
@@ -94,24 +175,46 @@ Each project reflects my commitment to building **efficient**, **scalable**, and
 
 ## 🎯 My Development Philosophy
 
+> "Good design is as little design as possible" - Dieter Rams
+
 I enjoy translating design concepts into real-world web experiences while ensuring:
 
-- ⚡ **Performance** - Fast loading and smooth interactions
+- ⚡ **Performance** - Fast loading times and smooth interactions
 - 🔧 **Maintainability** - Clean, organized, and reusable code
 - 📱 **Responsiveness** - Seamless experience across all devices
 - ♿ **Accessibility** - Inclusive design for all users
+- 🎨 **Modern UI/UX** - Contemporary design that delights users
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdulsamad25&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div display="flex" gap="20px">
+<div align="center">
 
-![Abdulsamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulsamad25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdulsamad25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulsamad25&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsamad25&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsamad25&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdulsamad25&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abdulsamad25&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -119,25 +222,61 @@ I enjoy translating design concepts into real-world web experiences while ensuri
 
 ## 🌱 Currently
 
-I'm constantly improving my craft and exploring new technologies to stay current in the fast-evolving frontend landscape. My goal is to create meaningful digital experiences that combine **creativity**, **design**, and **performance**.
+I'm constantly improving my craft and exploring new technologies to stay current in the fast-evolving frontend landscape. 
+
+**Currently Learning:**
+- 🔥 Advanced TypeScript patterns
+- ⚡ Next.js 14 with App Router
+- 🎨 Advanced CSS animations
+- 🧪 Testing with Jest & React Testing Library
+
+**My Goal:** Create meaningful digital experiences that combine **creativity**, **design**, and **performance**.
 
 ---
 
 ## 💬 Let's Collaborate
 
-I'm always open to interesting projects and opportunities. Feel free to reach out if you'd like to work together or just chat about web development!
+I'm always open to:
+- 🚀 Exciting frontend projects
+- 💼 Freelance opportunities
+- 🤝 Open source contributions
+- 🎓 Mentorship and knowledge sharing
+- 💡 Innovative web solutions
+
+Feel free to reach out if you'd like to work together or just chat about web development!
 
 ---
 
+## 📫 How to Reach Me
+
 <div align="center">
 
-### Show some ❤️ by starring some of my repositories!
-
-[![GitHub followers](https://img.shields.io/github/followers/Abdulsamad25?label=Follow&style=social)](https://github.com/Abdulsamad25)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/abdulsamad-yahaya-b68228323/)
+[![Email](https://img.shields.io/badge/Email-samadolalekan15%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:samadolalekan15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdulsamad-yahaya-b68228323/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome)](https://abdulsamad-yy.vercel.app/)
 
 </div>
 
 ---
 
+<div align="center">
+
+### 💖 Show some love by starring my repositories!
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abdulsamad25&color=brightgreen&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/Abdulsamad25?label=Follow&style=social)](https://github.com/Abdulsamad25)
+
+### ⚡ Fun Fact
+I turn coffee into code and bugs into features! ☕️💻
+
+</div>
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Yahaya Abdulsamad**
+
 ⭐️ From [Abdulsamad25](https://github.com/Abdulsamad25)
+
+</div>
