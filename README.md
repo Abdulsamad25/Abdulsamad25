@@ -73,7 +73,7 @@ I'm a passionate Frontend Developer dedicated to crafting responsive, modern, an
 
 **Tech Stack:** React • Tailwind CSS • Vite
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://foreverr-frontend.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://www.shopabasi.com/)
 [![Code](https://img.shields.io/badge/View-Code-blue?style=for-the-badge&logo=github)](https://github.com/Abdulsamad25)
 
 </td>
