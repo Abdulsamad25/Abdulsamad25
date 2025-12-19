@@ -64,9 +64,9 @@ I'm a passionate Frontend Developer dedicated to crafting responsive, modern, an
 <tr>
 <td width="50%">
 
-### 🛍️ Forever E-Commerce
-<a href="https://foreverr-frontend.vercel.app/">
-  <img src="https://res.cloudinary.com/dvd7wbty8/image/upload/w_500,q_auto,f_auto/v1762633959/forever_iid7vo.png" alt="Forever Store" width="100%"/>
+### 🛍️ Abasi Store
+<a href="[https://www.shopabasi.com/]">
+  <img src="https://res.cloudinary.com/dvd7wbty8/image/upload/v1766133496/abasiHome_if0crx.png" alt="Abasi Store" width="100%"/>
 </a>
 
 **Modern online shopping experience** with cart, checkout, and payment integration
