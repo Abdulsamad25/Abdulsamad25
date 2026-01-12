@@ -1,6 +1,6 @@
 # Hi there, I'm Yahaya Abdulsamad 👋
 
-### Frontend Developer | React Specialist | UI/UX Enthusiast
+### Frontend Developer | React Specialist | Web Developer
 
 I'm a passionate Frontend Developer dedicated to crafting responsive, modern, and user-centered web applications. I specialize in using **React** and **Tailwind CSS** to design clean, accessible interfaces that deliver both functionality and aesthetics.
 
